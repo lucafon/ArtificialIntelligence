@@ -1,0 +1,9 @@
+path_to_goal: ['Up']
+cost_of_path: 1
+nodes_expanded: 1
+fringe_size: 2
+max_fringe_size: 3
+search_depth: 1
+max_search_depth: 1
+running_time: 0.00144600868225
+max_ram_usage: 5

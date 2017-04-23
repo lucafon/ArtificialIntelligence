@@ -1,0 +1,14 @@
+.DS_Store
+**/.classpath
+**/.project
+**/.metadata
+.recommenders/index/http___download_eclipse_org_recommenders_models_mars_
+.recommenders/caches
+**/.settings
+**/c\:
+**/target
+**/.sonar
+**/sonar-project.properties
+**/.pydevproject
+**/__init__.py
+**/*.pyc
