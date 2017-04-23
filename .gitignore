@@ -12,3 +12,4 @@
 **/.pydevproject
 **/__init__.py
 **/*.pyc
+**/aclImdb
